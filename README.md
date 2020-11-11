@@ -1,7 +1,7 @@
 # BBB_Dashboard
 
 
-webpage: https://sklimkov.github.io/plotlydiploy1/
+webpage: https://sklimkov1990.github.io/plotlydiploy1/
 
 Deliverable 4 tasks done:
   - Add an image to the jumbotron.
